@@ -74,7 +74,7 @@ public class Main {
      * @return "maggiorenne" o "minorenne"
      */
     public static String isMaggiorenne(int age) {
-        String risposta="maggiorenne,minorenne";
+        String risposta="maggiorenne,minorenne"; 
         // TODO: SCRIVI QUI IL CODICE
         return risposta;
     }
